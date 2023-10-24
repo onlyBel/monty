@@ -1,0 +1,19 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /monty/bytecodes
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+push_empty.c
+00.m
+001.m
+003.m
+06.m
+09.m
+README.md
+pall_empty.m
+pint_empty.m
+swap_empty.m
