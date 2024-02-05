@@ -99,7 +99,6 @@ void stderr_unknown(char *token, unsigned int line_number);
 void div_e(unsigned int line_number);
 void op_e(unsigned int line_number, char *op);
 /* TEST Func */
-
 void tokerr(int error_code);
 unsigned int array_len(void);
 char *get_int(int num);
@@ -132,5 +131,3 @@ stack_t *add_dnodeint(stack_t **head, int n);
  */
 
 #endif
-
-
